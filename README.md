@@ -127,3 +127,7 @@ The interpreter provides error messages for common issues:
 - Limited error reporting
 - Limited type system
 - No file I/O operations
+
+## Author
+
+- Sashank Boppana, UFID: 4171-9973
