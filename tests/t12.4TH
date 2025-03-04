@@ -1,0 +1,4 @@
+: SQUARE DUP * ;
+5 SQUARE .
+10 SQUARE .
+2.5 SQUARE .
